@@ -1,0 +1,11 @@
+### GET
+POST http://localhost:4004/odata/v4/catalog/Interpret
+Content-Type: application/json
+
+    {
+        
+        "name":"some name"
+    }
+
+### Get Call
+GET http://localhost:4004/odata/v4/catalog/Interpret    
