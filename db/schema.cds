@@ -8,6 +8,8 @@ entity Album : cuid {
     genre: Genre;
     interpret: Association to Interpret ; //interpret_ID
 }
+//making a comment here and will commit second time - this comment is visible only in second commit not in first commit
+
 
 entity Interpret : cuid {
     
